@@ -1,0 +1,100 @@
+Benutzereingabe vom PC: 15+20
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 35
+
+
+Benutzereingabe vom PC: 35 - 55
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: -20
+
+
+Benutzereingabe vom PC: 35 * 35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 1225
+
+
+Benutzereingabe vom PC: 999 / 3
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 333
+
+
+Benutzereingabe vom PC: 35 / 0
+
+ Ergebnis vom Mikrocontroller: Division durch Null nicht moeglich
+
+
+Benutzereingabe vom PC: 35 35 35
+
+ Ergebnis vom Mikrocontroller: Ungueltige Eingabe
+
+
+Benutzereingabe vom PC: 35 hallo 35
+
+ Ergebnis vom Mikrocontroller: Ungueltige Eingabe
+
+
+Benutzereingabe vom PC: 35 * 35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 1225
+
+
+Benutzereingabe vom PC: 45+45
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 90
+
+
+Benutzereingabe vom PC: 5454654
+
+ Ergebnis vom Mikrocontroller: Ungueltige Eingabe
+
+
+Benutzereingabe vom PC: 454545+45454545
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: -31646
+
+
+Benutzereingabe vom PC: 45454+65454654
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 29644
+
+
+Benutzereingabe vom PC: 35+35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 70
+
+
+Benutzereingabe vom PC: 35 hallo 35
+
+ Ergebnis vom Mikrocontroller: Ungueltige Eingabe
+
+
+Benutzereingabe vom PC: 35
+
+ Ergebnis vom Mikrocontroller: Ungueltige Eingabe
+
+
+Benutzereingabe vom PC: 35+35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 70
+
+
+Benutzereingabe vom PC: 35+35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 70
+
+
+Benutzereingabe vom PC: 35+35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 70
+
+
+Benutzereingabe vom PC: 354+35
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 389
+
+
+Benutzereingabe vom PC: 36+34
+
+ Ergebnis vom Mikrocontroller: Das Ergebnis lautet: 70
+
+
